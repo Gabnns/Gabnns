@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel,
 
 - 🔭 Hoje trabalho na parte técnica de informática, mas procuro vagas voltadas para área de desenvolvimento.
-- 🌱 Estudando JavaScript | Aprofundando meu conhecimentos em HTML e CSS
+- 🌱 Estudando JavaScript | Aprofundando meus conhecimentos em HTML e CSS
 - 📫 Para contato via e-mail: gabrielchaves204@gmail.com
 - 😄 Pronouns: Ele/dele
 
