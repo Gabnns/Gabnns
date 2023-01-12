@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho na parte técnica de informática, mas procuro vagas voltadas para área de desenvolvimento FrontEnd.
 - 🌱 Curso técnico em Análise e Desenvolvimento de Sistemas | Fazendo pós em Desenv. FrontEnd
 - 📫 Para contato via e-mail: gabrielchaves204@gmail.com
-- 😄 Pronouns: Ele/dele
+
 
 
 <div align="center">
