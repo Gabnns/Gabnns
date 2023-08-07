@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel,
 
 - 🔭 Trabalho atualmente na área técnica de informática, mas pretendo futuramente atuar na área de desenvolvimento FrontEnd.
-- 🌱 Tecnólogo em Análise e Desenvolvimento de Sistemas | Fazendo pós em Desenv. FrontEnd
+- 🌱 Tecnólogo em Análise e Desenvolvimento de Sistemas | Pós em Desenv. FrontEnd
 - 📫 Para contato via e-mail: gabrielchaves204@gmail.com
 
 
