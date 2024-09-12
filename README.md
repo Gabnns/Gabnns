@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em ADS e Pós em FrontEnd.
-- 💼 Trabalhando atualmente como Helpdesk.
+- 💼 Trabalhando atualmente como Helpdesk, em busca de uma oportunidade na área de desenvolvimento.
 - 🌱 Sempre em busca de mais apredizados sobre as novas tecnologias.
 - 📫 Para contato: gabrielchaves204@gmail.com
 
