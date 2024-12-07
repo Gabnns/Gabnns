@@ -1,10 +1,10 @@
-## Olá! Eu sou o Gabriel,
+## Hello! I'm Gabriel,
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formado em ADS e Pós em FrontEnd.
-- 💼 Trabalhando atualmente como Helpdesk, em busca de uma oportunidade na área de desenvolvimento.
-- 🌱 Sempre em busca de mais apredizados sobre as novas tecnologias.
-- 📫 Para contato: gabrielchaves204@gmail.com
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Graduated in ADS and Postgraduate in FrontEnd.
+- 💼 Currently working as a Helpdesk, looking for an opportunity in the development area.
+- 🌱 Always looking for more learning about new technologies.
+- 📫 For contact: gabrielchaves204@gmail.com
 
 
 
@@ -14,9 +14,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabnns&layout=compact&langs_count=7&theme=dark&border_radius=false"/>
 </div>
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Applications and data**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -31,12 +31,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-## Onde me encontrar
+## Where to find me
 <div>
   <a href="https://instagram.com/by_gbnunes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielchaves204@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
