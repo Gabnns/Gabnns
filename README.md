@@ -8,9 +8,7 @@
 
 
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabnns&show_icons=true&theme=dark&icon_color=ff5100&border_radius=false&include_all_commits=true&count_private=true"/>
+<div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabnns&layout=compact&langs_count=7&theme=dark&border_radius=false"/>
 </div>
 
