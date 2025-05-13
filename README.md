@@ -81,12 +81,6 @@
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabnns.gabnns&left_color=mediumpurple&right_color=mediumblue"  />
-</div>
-
-###
-
 <h2 align="left">Where to find me</h2>
 
 ###
