@@ -1,4 +1,6 @@
-<h1 align="center" >Hello! I'm Gabriel!</h1>
+<div>
+  <h1>Hello! I'm Gabriel!</h1> 
+</div>
 
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=C25EFFDC&multiline=true&repeat=false&width=1200&height=120&lines=%F0%9F%A4%94+Exploring+new+technologies+and+developing+software+solutions.;%F0%9F%8E%93+Graduated+in+ADS+and+Postgraduate+in+FrontEnd.;%F0%9F%92%BC+Currently+working+as+a+Helpdesk%2C+looking+for+an+opportunity+in+the+development+area.;%F0%9F%8C%B1+Always+looking+for+more+learning+about+new+technologies.)](https://git.io/typing-svg)
@@ -6,7 +8,8 @@
 
 ###
 
-<h2 align="center">My knowledge and skills</h2>
+<h3 align="center">My knowledge and skills</h3>
+
 
 ###
 
@@ -73,6 +76,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
+---
+
 ###
 
 <div align="center">
@@ -81,22 +86,23 @@
 
 ###
 
-<h2 align="left">Where to find me</h2>
+---
+<h3 align="left">Where to find me</h3>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabrielnuneschaves/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@gbnunes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
   <a href="gabrielchaves204@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/by_gbnunes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
   </a>
 </div>
 
