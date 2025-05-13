@@ -108,3 +108,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/gabnns/gabnns/output/snake.svg" alt="Snake animation" />
+
+###
